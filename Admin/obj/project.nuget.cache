@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lrj2ye4WrbMthMk66p/aZETckGa8XRADVowTh1U2PII6R/pjf5MxNiuhvNwvtlKpUu9m1u6Am1bf93+Y6HhThA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual studio code\\TeamVit\\Admin\\Admin\\Admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
